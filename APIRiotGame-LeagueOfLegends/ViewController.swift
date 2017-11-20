@@ -12,6 +12,7 @@
 
 import UIKit
 
+// *****************************************************
 class ViewController: UIViewController {
 
     var tableauPersonnages = Array<Champion>()
